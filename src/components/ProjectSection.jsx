@@ -41,6 +41,16 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "/",
   },
+  {
+    id: 5,
+    title: "Anime Vault",
+    description: "Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations",
+    image: "/projects/animevault.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/johanirony/animevault",
+    previewUrl: "https://animevault-g1fg.vercel.app",
+  },
+
 
 ];
 
