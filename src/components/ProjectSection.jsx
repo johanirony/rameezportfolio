@@ -50,6 +50,15 @@ const projectsData = [
     gitUrl: "https://github.com/johanirony/animevault",
     previewUrl: "https://animevault-g1fg.vercel.app",
   },
+  {
+    id: 6,
+    title: "Custom 3D Tshirt ",
+    description: "Modern React JS project using Three.js lib for rendering 3D items on the webpage and OpenAI API for sending promts to render AI Generated Images on the Tshirt.",
+    image: "/projects/threejs.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/johanirony/custom-3d-tshirt-using-threejs",
+    previewUrl: "https://667d2940b5a0a59b18fafcb3--guileless-rabanadas-67780a.netlify.app/",
+  },
 
 
 ];
